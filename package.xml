@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>hmcik</name>
+  <version>0.0.1</version>
+  <description>Double-precision seven-axis arm kinematics and a simple ROS test node.</description>
+  <maintainer email="cqh@todo.todo">cqh</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>eigen</depend>
+  <depend>fcl</depend>
+  <depend>geometry_msgs</depend>
+  <depend>octomap</depend>
+  <depend>pcl_conversions</depend>
+  <depend>roscpp</depend>
+  <depend>roslib</depend>
+  <depend>sensor_msgs</depend>
+  <depend>visualization_msgs</depend>
+</package>

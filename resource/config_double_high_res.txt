@@ -1,0 +1,10 @@
+NGARR=10
+random=0
+Nposition=6000
+rand_range=360.0
+max_count=7000
+eps=0.001
+pc_use=1
+show=0
+GARR=1
+scene=0
